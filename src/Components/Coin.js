@@ -14,4 +14,5 @@ function Coin (props) {
 
 }
 
+
 export default Coin;
